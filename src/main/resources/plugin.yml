@@ -1,0 +1,3 @@
+name: Emile2250-t3
+main: com.tenjava.entries.Emile2250.t3.TenJava
+version: '${project.version}'
